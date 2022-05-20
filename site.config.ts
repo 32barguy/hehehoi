@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'TEST BOI',
   domain: 'Link-in- B I O ',
   author: 'Remo Antony Francis',
 
