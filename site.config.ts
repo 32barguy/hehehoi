@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'rEmOaNtOnY6',
   github: '32barguy',
-  linkedin: 'fisch2',
+  linkedin: '32barguy',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
